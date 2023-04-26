@@ -2,7 +2,7 @@
 
 Este é um projeto criado como parte de um desafio técnico para a empresa UpBase.
 
-O objetivo deste projeto é desenvolver a tela de contratação do protótipo em React Native, seguindo o estilo do aplicativ, foi desenvolvida uma tela agradável e funcional, conforme mostrado na foto abaixo:
+O objetivo deste projeto é desenvolver a tela de contratação do protótipo em React Native, seguindo o estilo do aplicativo, foi desenvolvida uma tela agradável e funcional, conforme mostrado na foto abaixo:
 
 ![image_android](https://user-images.githubusercontent.com/80495195/233404361-79c30b0f-db11-40e7-a76a-f6937f6e4b1a.jpeg)
 
